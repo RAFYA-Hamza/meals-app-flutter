@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:meals_app/data/dummy_data.dart';
-import 'package:meals_app/models/category_model.dart';
-import 'package:meals_app/screens/meals_screen.dart';
+import 'package:meals_app_vf/data/dummy_data.dart';
+import 'package:meals_app_vf/models/category_model.dart';
+import 'package:meals_app_vf/screens/meals_screen.dart';
 
 class CategoryGridItem extends StatelessWidget {
   const CategoryGridItem({

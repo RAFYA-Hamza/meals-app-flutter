@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:meals_app/models/category_model.dart';
-import 'package:meals_app/models/meal_model.dart';
-import 'package:meals_app/screens/meal_details_screen.dart';
+import 'package:meals_app_vf/models/category_model.dart';
+import 'package:meals_app_vf/models/meal_model.dart';
+import 'package:meals_app_vf/screens/meal_details_screen.dart';
 
 class ListMealsWidget extends StatelessWidget {
   const ListMealsWidget({
