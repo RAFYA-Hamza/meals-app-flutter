@@ -2,15 +2,28 @@
 
 A new Flutter project.
 
+
+
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Make sure you have Flutter installed on your machine. You can follow the official [Flutter installation guide](https://flutter.dev/docs/get-started/install) for your operating system.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/RAFYA-Hamza/expense-tracker-app-flutter.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd quiz-app-flutter
+    ```
+3. Get the required dependencies:
+    ```sh
+    flutter pub get
+    ```
+
+### Running the App
+
