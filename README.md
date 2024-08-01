@@ -14,11 +14,11 @@ Make sure you have Flutter installed on your machine. You can follow the officia
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/RAFYA-Hamza/expense-tracker-app-flutter.git
+    git clone https://github.com/RAFYA-Hamza/meals-app-flutter.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd quiz-app-flutter
+    cd meals-app-flutter
     ```
 3. Get the required dependencies:
     ```sh
