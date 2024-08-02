@@ -2,7 +2,11 @@
 
 A new Flutter project.
 
-
+<div style="display: flex; justify-content: space-evenly;">
+  <img src="images/main_page.png" alt="Page 1" width="250">
+  <img src="images/example.png" alt="Example 2" width="250">
+  <img src="images/ingradient.png" alt="Ingradients 3" width="250">
+</div>
 
 ## Getting Started
 
