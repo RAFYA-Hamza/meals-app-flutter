@@ -46,7 +46,6 @@ Perfect recipes for the summer season, including salads, BBQ, and refreshing dri
 ## Getting Started
 
 ### Prerequisites
-
 Make sure you have Flutter installed on your machine. You can follow the official [Flutter installation guide](https://flutter.dev/docs/get-started/install) for your operating system.
 
 ### Installation
