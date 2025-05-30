@@ -1,5 +1,4 @@
 # World Cuisine Explorer App
-
 Welcome to World Cuisine Explorer, an exciting app that lets you explore a wide variety of meals from different cultures and categories. Whether you're looking for a quick meal, a traditional dish, or something exotic, this app provides a diverse selection of recipes to inspire your culinary adventures.
 
 # Features
